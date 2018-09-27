@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538075408 source:k:\sprawdz_plec_po_imieniu\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
